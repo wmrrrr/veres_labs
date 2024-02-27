@@ -10,6 +10,6 @@ def route(our_list):
     return finished_list
 
 
-our_list = [[1,5,7], [6,8,3], [4,2,1], [2,2,4]]
+our_list = [[1, 5, 7], [6, 8, 3], [4, 2, 1], [2, 2, 4]]
 
 print(route(our_list))
