@@ -22,7 +22,7 @@ class TestElements(unittest.TestCase):
         our_list = [[3],[4],[1],[5],[2],[6]]
         expected_result = [3,4,1,5,2,6]
         self.assertEqual(route(our_list), expected_result)
-      
+
 
 if __name__ == '__main__':
     unittest.main()
